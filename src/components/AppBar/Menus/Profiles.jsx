@@ -35,7 +35,7 @@ const Profiles = () => {
         >
           <Avatar
             src='https://i.pinimg.com/564x/5c/63/a9/5c63a94d26f6c5e11320c41200e9c3c3.jpg'
-            sx={{ width: 34, height: 34 }}
+            sx={{ width: 36, height: 36 }}
             alt='NguyenDev'
           ></Avatar>
         </IconButton>
